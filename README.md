@@ -1,0 +1,2 @@
+# wordstar
+wordstar主题
